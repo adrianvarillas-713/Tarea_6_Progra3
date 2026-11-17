@@ -2,6 +2,7 @@
 #include <stack>
 #include <queue>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
